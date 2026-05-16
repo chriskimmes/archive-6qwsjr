@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chriskimmes.github.io/archive-6qwsjr/sitemap.xml
